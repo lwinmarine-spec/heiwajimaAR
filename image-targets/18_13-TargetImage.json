@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 67,
+    "left": 0,
+    "width": 1653,
+    "height": 2204,
+    "isRotated": true,
+    "originalWidth": 1653,
+    "originalHeight": 2339
+  },
+  "imagePath": "image-targets/18_13-TargetImage_luminance.png",
+  "metadata": null,
+  "name": "18_13-TargetImage",
+  "resources": {
+    "originalImage": "18_13-TargetImage_original.png",
+    "croppedImage": "18_13-TargetImage_cropped.png",
+    "thumbnailImage": "18_13-TargetImage_thumbnail.png",
+    "luminanceImage": "18_13-TargetImage_luminance.png"
+  },
+  "created": 1783475099628,
+  "updated": 1783475099628
+}

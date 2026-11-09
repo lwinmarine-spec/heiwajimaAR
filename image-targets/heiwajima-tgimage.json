@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 95,
+    "left": 0,
+    "width": 2339,
+    "height": 3118,
+    "isRotated": true,
+    "originalWidth": 2339,
+    "originalHeight": 3309
+  },
+  "imagePath": "image-targets/heiwajima-tgimage_luminance.jpg",
+  "metadata": null,
+  "name": "heiwajima-tgimage",
+  "resources": {
+    "originalImage": "heiwajima-tgimage_original.jpg",
+    "croppedImage": "heiwajima-tgimage_cropped.jpg",
+    "thumbnailImage": "heiwajima-tgimage_thumbnail.jpg",
+    "luminanceImage": "heiwajima-tgimage_luminance.jpg"
+  },
+  "created": 1793841037426,
+  "updated": 1793841037426
+}

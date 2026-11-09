@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 52,
+    "left": 0,
+    "width": 559,
+    "height": 745,
+    "isRotated": true,
+    "originalWidth": 559,
+    "originalHeight": 850
+  },
+  "imagePath": "image-targets/BridgeImge_luminance.png",
+  "metadata": null,
+  "name": "BridgeImge",
+  "resources": {
+    "originalImage": "BridgeImge_original.png",
+    "croppedImage": "BridgeImge_cropped.png",
+    "thumbnailImage": "BridgeImge_thumbnail.png",
+    "luminanceImage": "BridgeImge_luminance.png"
+  },
+  "created": 1783383457020,
+  "updated": 1783383457020
+}
